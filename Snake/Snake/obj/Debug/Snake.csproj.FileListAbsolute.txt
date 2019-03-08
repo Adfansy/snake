@@ -5,3 +5,10 @@ C:\Users\iRU\Desktop\кожа\ООП\snake\Snake\Snake\obj\Debug\Snake.csprojAss
 C:\Users\iRU\Desktop\кожа\ООП\snake\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
 C:\Users\iRU\Desktop\кожа\ООП\snake\Snake\Snake\obj\Debug\Snake.exe
 C:\Users\iRU\Desktop\кожа\ООП\snake\Snake\Snake\obj\Debug\Snake.pdb
+C:\Программирование\Репозиторий\Snake\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Программирование\Репозиторий\Snake\Snake\Snake\bin\Debug\Snake.exe
+C:\Программирование\Репозиторий\Snake\Snake\Snake\bin\Debug\Snake.pdb
+C:\Программирование\Репозиторий\Snake\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Программирование\Репозиторий\Snake\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Программирование\Репозиторий\Snake\Snake\Snake\obj\Debug\Snake.exe
+C:\Программирование\Репозиторий\Snake\Snake\Snake\obj\Debug\Snake.pdb
