@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Snake
 {
-    class Walls : Figure
+    class Walls 
     {
         List<Figure> wallList;
         
